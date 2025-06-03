@@ -33,12 +33,19 @@ I care deeply about using technology to solve **local and global challenges**, e
 - 🌍 Focused on building tech that matters
 
 ---
+---
+
+## 📈 GitHub Stats
+
+![Sari's GitHub stats](https://github-readme-stats.vercel.app/api?Sari-Amin=Sari-Amin&show_icons=true&theme=radical)
+
+---
 
 ## 📫 Let's Connect
 
-- Email: sari.amin.hussen@example.com  
-- LinkedIn: [linkedin.com/in/sariamin](https://linkedin.com/in/ibnuamin4)  
-- GitHub: [github.com/yourusername](https://github.com/Sari-Amin)
+- Email: sari.amin.hussen@gmail.com  
+- LinkedIn: [Sari Amin](https://linkedin.com/in/ibnuamin4)  
+- GitHub: [Sari Amin(https://github.com/Sari-Amin)
 
 ---
 
