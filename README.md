@@ -37,7 +37,7 @@ I care deeply about using technology to solve **local and global challenges**, e
 
 ## 📈 GitHub Stats
 
-![Sari's GitHub stats](https://github-readme-stats.vercel.app/api?Sari-Amin=Sari-Amin&show_icons=true&theme=radical)
+![Sari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sari-Amin&show_icons=true&theme=radical)
 
 ---
 
