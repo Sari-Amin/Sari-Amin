@@ -45,7 +45,7 @@ I care deeply about using technology to solve **local and global challenges**, e
 
 - Email: sari.amin.hussen@gmail.com  
 - LinkedIn: [Sari Amin](https://linkedin.com/in/ibnuamin4)  
-- GitHub: [Sari Amin(https://github.com/Sari-Amin)
+- GitHub: [Sari Amin](https://github.com/Sari-Amin)
 
 ---
 
